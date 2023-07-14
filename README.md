@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+This is a solution to the [Result summany component challenge on Frontend Mentor]([https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV]). 
 
 ## Table of contents
 
@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/results-summary-component-challenge-using-flexbox-qJteTzvNEQ)
+- Live Site URL: [Live Site URL](https://beowulfcodes.github.io/results-summary-component-challenge/)
 
 ## My process
 
